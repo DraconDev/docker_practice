@@ -1,4 +1,4 @@
-# fly.toml file generated for dockerprac on 2023-03-24T23:38:36Z
+# fly.toml file generated for dockerprac on 2023-03-24T23:44:47Z
 
 app = "dockerprac"
 kill_signal = "SIGINT"
